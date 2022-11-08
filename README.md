@@ -2,12 +2,11 @@
 
 Código fonte da palestra ministrada virtualmente para evento da Comissão de Direito Digital da OAB - SC em 08 de Novembro de 2022.
 
-Este repositório tem a seguinte estrutura
+Para rodar o código precisa instalar o Go e depois disso digitar o comando:
 
-- cryptographic-hash
-- symmetric-key-cryptography
-- asymmetric-cryptography
-- post-quantum-cryptography
+```bash
+go run main.go
+```
 
 The slides of the talk are in this link below:
 
